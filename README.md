@@ -12,7 +12,8 @@
 
 This plugin is not officially commissioned/supported by Netflix.
 The trademark "Netflix" is registered by "Netflix, Inc."
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 ## Features
 
 - Access to multiple profiles
